@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I [graduated](assets/img/grad.jpg){:target="_blank"} from Tsinghua University!
+I graduated from Tsinghua University!

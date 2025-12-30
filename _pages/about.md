@@ -2,7 +2,8 @@
 layout: about
 title: Lean Luo
 permalink: /
-subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: leluo@ucdavis.edu
+#<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
