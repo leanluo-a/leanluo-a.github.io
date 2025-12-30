@@ -16,8 +16,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-news",
-          title: "News",
+        },{id: "nav-news-amp-posts",
+          title: "News &amp; Posts",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -397,8 +397,14 @@ ninja.data = [{
           section: "News",},{id: "news-check-out-our-new-paper-online-published-in-journal-of-child-language",
           title: 'Check out our new paper online published in Journal of Child Language!',
           description: "",
+          section: "News",},{id: "news-our-bucld-49-proceedings-paper-is-now-online",
+          title: 'Our BUCLD 49 proceedings paper is now online!',
+          description: "",
           section: "News",},{id: "news-excited-to-announce-that-i-m-starting-a-postdoctoral-position-at-uc-davis",
           title: 'Excited to announce that I’m starting a postdoctoral position at UC Davis!',
+          description: "",
+          section: "News",},{id: "news-presented-my-work-at-bucld50-luo-et-al-and-camp8-luo-amp-amp-momma",
+          title: 'Presented my work at BUCLD50 (Luo et al.) and CAMP8 (Luo &amp;amp;amp; Momma)!...',
           description: "",
           section: "News",},{id: "news-i-m-awarded-the-cogsci-x-gorilla-grant-2025",
           title: 'I’m awarded the CogSci x Gorilla Grant 2025!',
