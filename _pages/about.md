@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently a Postdoctoral Researcher affiliated to the [Morgan Computational Psycholinguistics Lab](https://morganlab.ucdavis.edu/) in the Department of Linguistics at UC Davis. In June 2025, I obtained my PhD degree from Tsinghua University, with a specialization in child language development. 
+I am currently a Postdoctoral Researcher affiliated to the [Morgan Computational Psycholinguistics Lab](https://morganlab.ucdavis.edu/) in the Department of Linguistics at UC Davis. In June 2025, I obtained my PhD degree from Tsinghua University. 
 
 I study the mechanisms underlying language and cognition across systems, from infants to adults (and now extending to language models as well), with the overarching goal of characterizing the fundamental units and computations that support different cognitive processes. 
 
