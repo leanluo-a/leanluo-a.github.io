@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am attending [School on Analytical Connectionism](https://www.analytical-connectionism.net/school/2026/) (Gothenburg, August 17-28) and will also be presenting a [poster](/assets/pdf/Luo&Morgan_AMLaP2026.pdf) at [AMLaP2026](https://www.uni-saarland.de/fakultaet-p/amlap.html) (Saarbrücken, September 2–4).
+I’ll be attending [2026 Analytical Connectionism](https://www.analytical-connectionism.net/school/2026/) at Chalmers University of Technology (August 17–28) and [AMLaP 2026]((https://www.uni-saarland.de/fakultaet-p/amlap.html)) at Saarland University (September 2–4), where I’ll present [the first project](/assets/pdf/Luo&Morgan_AMLaP2026.pdf) from my postdoctoral work with Emily Morgan.
